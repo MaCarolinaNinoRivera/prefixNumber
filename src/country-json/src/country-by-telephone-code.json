@@ -1,0 +1,23 @@
+[
+    {
+      "country": "United States",
+      "code": "US",
+      "prefix": "+1"
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "prefix": "+1"
+    },
+    {
+      "country": "Mexico",
+      "code": "MX",
+      "prefix": "+52"
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "prefix": "+44"
+    }
+  ]
+  
